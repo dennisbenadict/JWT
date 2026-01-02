@@ -1,8 +1,8 @@
 ## 🚀 Access Token and Refresh Token — How It Actually Works
 
 ### ⏳ Token Lifetimes
-- Access Token → 15 minutes  
-- Refresh Token → 7 days  
+- Access Token → 15 minutes (Flexible)
+- Refresh Token → 7 days (Flexible)
 
 ### 🧠 Core Rule
 Refresh is reactive, not automatic.
